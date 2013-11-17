@@ -1,0 +1,30 @@
+{
+  "name": "thalassa-haproxy",
+  "version": "0.1.0",
+  "description": "Sync thalassa and haproxy to keep your services balanced",
+  "main": "lib/thalassa-haproxy.js",
+  "dependencies": {
+    "ejs": "~0.8.4"
+  },
+  "devDependencies": {
+    "haproxy": "0.0.x",
+    "thalassa": "~0.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thechurch/node-thalassa-haproxy.git"
+  },
+  "keywords": [
+    "thalassa",
+    "registry",
+    "haproxy"
+  ],
+  "author": "Tim Smart <tim@thechurch.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thechurch/node-thalassa-haproxy/issues"
+  }
+}
