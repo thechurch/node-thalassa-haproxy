@@ -1,6 +1,6 @@
 {
   "name": "thalassa-haproxy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sync thalassa and haproxy to keep your services balanced",
   "main": "lib/thalassa-haproxy.js",
   "dependencies": {
